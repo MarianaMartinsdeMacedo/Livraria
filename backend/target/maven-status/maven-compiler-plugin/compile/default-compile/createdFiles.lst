@@ -1,0 +1,15 @@
+br\senac\df\spring\service\LivrosService.class
+br\senac\df\spring\model\Autor.class
+br\senac\df\spring\service\AutorService.class
+br\senac\df\spring\controller\AutorController.class
+br\senac\df\spring\repositorio\UsuarioRepositorio.class
+br\senac\df\spring\service\UsuarioService.class
+br\senac\df\spring\model\Livros.class
+br\senac\df\spring\model\Usuario.class
+br\senac\df\spring\controller\UsuarioController.class
+br\senac\df\spring\repositorio\LivroRepositorio.class
+br\senac\df\spring\controller\LoginController.class
+br\senac\df\spring\controller\LoginController$LoginRequest.class
+br\senac\df\spring\Application.class
+br\senac\df\spring\controller\LivrosController.class
+br\senac\df\spring\repositorio\AutorRepositorio.class
